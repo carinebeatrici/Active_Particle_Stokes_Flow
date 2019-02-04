@@ -1,0 +1,10 @@
+model    particle
+window   4
+time_0   10000
+time_f   1000000
+obstacle yes
+voronoi  no
+x0       20
+xf       80
+y0       0
+yf       30

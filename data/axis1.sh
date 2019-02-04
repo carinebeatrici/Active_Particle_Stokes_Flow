@@ -1,0 +1,1 @@
+xmgrace -block axis1.dat -type xy -bxy 1:2 -par axis.par
